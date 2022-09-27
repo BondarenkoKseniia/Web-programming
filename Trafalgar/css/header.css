@@ -1,0 +1,72 @@
+.header__nav ul {
+    display: flex;
+}
+
+.header__nav-item {
+    margin-right: 42px;
+    height: 13.37px;
+    left: 301.19px;
+    top: 76px;
+    opacity: 50%;
+
+}
+
+.header__nav-home {
+    margin-right: 42px;
+    height: 12.95px;
+    width: 48.57px;
+    left: 210px;
+    top: 76.43px;
+    border-radius: 0px;
+}
+
+.hero__title-text {
+    height: 82.27px;
+    width: 241.66px;
+    left: 212.16px;
+    top: 312.50px;
+    border-radius: 0px;
+    padding-top: 223.11px;
+    text-align: left;
+    max-width: 242px;
+    font-weight: 700;
+    font-size: 2.25rem;
+    line-height: 3rem;
+}
+
+.hero__content>.line-divider__black{
+    margin-top: 32px;
+}
+
+.hero__illustration {
+    padding-right: 60px;
+}
+
+
+.hero__info {
+    height: 107.33px;
+    width: 360.13px;
+    left: 210.61px;
+    top: 468.75px;
+    border-radius: 0px;
+    color: rgba(125, 121, 135, 1);
+    text-align: left;
+    margin-top: 40px;
+    max-width: 360px;
+}
+
+
+.header__nav ul {
+    display: flex;
+}
+
+.hero__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    padding-bottom: 90px;
+    margin-bottom: 30px;
+    background: url("../images/bluedots.svg") no-repeat right bottom;
+}
+
